@@ -1,0 +1,23 @@
+{
+    "pack": {
+        "pack_format": 34,
+		"supported_formats": { "min_inclusive": 34, "max_inclusive": 55},
+        "description": "\u00a76Dust Tweaks\n\u00a7ebase pack: vanillatweaks.net. *This pack has no affiliation with vanillatweaks"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 42, "max_inclusive": 55},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 55},
+				"directory": "overlay_46"
+			},
+			{
+				"formats": {"min_inclusive": 53, "max_inclusive": 55},
+				"directory": "overlay_53"
+			}
+		]
+	}
+}
